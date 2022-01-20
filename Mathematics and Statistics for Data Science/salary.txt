@@ -1,0 +1,5 @@
+name|salary
+laxman|1000
+ashok|2000
+santhosh|3000
+sudeep|100000000
