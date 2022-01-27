@@ -1,0 +1,11 @@
+name,salary
+laxman,1000
+ashok,2000
+prashanth,3100
+santhosh,1200
+sudeep,2300
+kumar,1300
+goverdhan,1400
+rajesh,2900
+pullayya,10
+mallayya,100000
